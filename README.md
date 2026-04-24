@@ -37,7 +37,7 @@ $ fidelhacker13 --status
 
 <div align="center">
 
-**Languages** _(in order of use)_
+**Languages**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
@@ -119,6 +119,9 @@ $ fidelhacker13 --status
 
 <a href="https://lordlock.dev" target="_blank">
   <img src="https://img.shields.io/badge/-lordlock.dev-00FF41?style=for-the-badge&logo=firefoxbrowser&logoColor=black&labelColor=0d1117" />
+</a>
+<a href="https://t.me/lordlock" target="_blank">
+  <img src="https://img.shields.io/badge/-t.me%2Flordlock-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="https://github.com/fidelhacker13" target="_blank">
   <img src="https://img.shields.io/badge/-fidelhacker13-0d1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117" />
